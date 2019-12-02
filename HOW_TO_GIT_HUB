@@ -1,2 +1,6 @@
-git push -u origin master
-Trying to edit from the hit hub repo ...
+First time you want to drive th erepo to the git HUB (after you created the repo on git hub of coures e.g "paractice2"
+> git push -u origin master
+After this was created next you can just Push or Pull as needed: (usually we want to push to the could)
+> git push ..
+> git pull ..
+
